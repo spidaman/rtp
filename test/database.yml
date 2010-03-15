@@ -1,0 +1,6 @@
+test:
+  adapter: mysql
+  encoding: utf8
+  database: rtp_test
+  username: root
+  password:

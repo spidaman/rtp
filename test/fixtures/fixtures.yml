@@ -1,0 +1,2068 @@
+
+--- 
+statuses: 
+  columns: 
+  - id
+  - user_id
+  - twitter_status_id
+  - created_at
+  - text
+  - source
+  - lat
+  - lon
+  - has_geo
+  records: 
+  - - "1"
+    - "3839"
+    - "10523108125"
+    - 2010-02-21 15:53:16
+    - Tribeca Film Festival Adds Movies From Gibney, Winterbottom, Burns and Turlington Burns. http://r2.ly/8ast
+    - web
+    - 
+    - 
+    - false
+  - - "2"
+    - "2226061"
+    - "10523091686"
+    - 2010-02-21 15:52:52
+    - "Hot @GetGlue giveaway: ticket to @HarperStudio Re-set breakfast with Godin, Tom Peters, Michael Eisner, Anna Bersnak! http://bit.ly/cBkoF5 !"
+    - web
+    - 
+    - 
+    - false
+  - - "3"
+    - "918711"
+    - "10523081478"
+    - 2010-02-21 15:52:37
+    - "Cr\xC3\xAApes then SXSW  \xE2\x80\x94 at Cafe Crepe http://gowal.la/s/4Ere"
+    - <a href="http://gowalla.com/" rel="nofollow">Gowalla</a>
+    - 
+    - 
+    - false
+  - - "4"
+    - "14348255"
+    - "10523038600"
+    - 2010-02-21 15:51:34
+    - "SO EXCITED to see Jaron Lanier (author of \"You Are Not a Gadget\") speak today. probably the talk i'm looking forward to most at #sxsw."
+    - web
+    - 
+    - 
+    - false
+  - - "5"
+    - "7177512"
+    - "10523004109"
+    - 2010-02-21 15:50:44
+    - "LINKS:  15 MAR 10 http://globalguerrillas.typepad.com/globalguerrillas/2010/03/links-15-mar-10.html"
+    - <a href="http://www.typepad.com/" rel="nofollow">TypePad</a>
+    - 
+    - 
+    - false
+  - - "6"
+    - "7161172"
+    - "10522993948"
+    - 2010-02-21 15:50:29
+    - "Why You Shouldn\xE2\x80\x99t \xE2\x80\x98Launch\xE2\x80\x99 Your Start-Up http://tnw.to/15ogB &lt;--- great post by @Boris"
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "7"
+    - "3839"
+    - "10522992389"
+    - 2010-02-21 15:50:27
+    - A public execution in the East Village, 1824. http://r2.ly/8asj
+    - web
+    - 
+    - 
+    - false
+  - - "8"
+    - "626973"
+    - "10522966390"
+    - 2010-02-21 15:49:50
+    - "If you're a member of the press, check out our press kit here: http://bit.ly/bqSv4E"
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "9"
+    - "14509654"
+    - "10522949683"
+    - 2010-02-21 15:49:26
+    - A Better Mobile Web; What else? http://bit.ly/bxPsMQ
+    - <a href="http://twitterfeed.com" rel="nofollow">twitterfeed</a>
+    - 
+    - 
+    - false
+  - - "10"
+    - "833071"
+    - "10522913366"
+    - 2010-02-22 15:48:30
+    - "RT @HuntHenning: @furrier And that is why I don't have anything on my iPhone or Mac that I don't want my family to see."
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "11"
+    - "23101838"
+    - "10522899221"
+    - 2010-02-22 15:48:11
+    - "Fast Company: Analysis: When Working Day's Done, iPhones, and Soon iPads, Light Up http://bit.ly/d3q5JB Full http://bit.ly/a4DMUL"
+    - <a href="http://apiwiki.twitter.com/" rel="nofollow">API</a>
+    - 
+    - 
+    - false
+  - - "12"
+    - "23101838"
+    - "10522887998"
+    - 2010-02-22 15:47:54
+    - "PCWorld: Mac News Briefs: 3D and Animation http://bit.ly/dcDUQ0 Full http://bit.ly/afJmF3"
+    - <a href="http://apiwiki.twitter.com/" rel="nofollow">API</a>
+    - 
+    - 
+    - false
+  - - "13"
+    - "13834402"
+    - "10522823739"
+    - 2010-02-22 15:46:19
+    - WaPo readers deserve more says their Ombudsman.  http://ow.ly/1l8We
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "14"
+    - "11388132"
+    - "10522796753"
+    - 2010-02-22 15:45:38
+    - "New link for JZ-is-sick-pls-help FAQ: http://ping.fm/860Md"
+    - <a href="http://www.ping.fm/" rel="nofollow">Ping.fm</a>
+    - 
+    - 
+    - false
+  - - "15"
+    - "23101838"
+    - "10522781389"
+    - 2010-02-22 15:45:16
+    - "PEHub: San Francisco Shindig Tickets Now On Sale http://bit.ly/aLgBDZ Full http://bit.ly/b0MPyl"
+    - <a href="http://apiwiki.twitter.com/" rel="nofollow">API</a>
+    - 
+    - 
+    - false
+  - - "16"
+    - "20806376"
+    - "10522774178"
+    - 2010-02-22 15:45:07
+    - "\"Avatar\" makers consider sequel, other 3D projects http://ow.ly/1l2fK"
+    - <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a>
+    - 
+    - 
+    - false
+  - - "17"
+    - "607"
+    - "10522611345"
+    - 2010-02-22 15:41:10
+    - "Did anyone tell MSFT it was a bad idea to host a nerd conference, while another, massive nerd conference was going on? #MIX10 #SXSW"
+    - web
+    - 
+    - 
+    - false
+  - - "18"
+    - "23101838"
+    - "10522604956"
+    - 2010-02-22 15:41:00
+    - "IndustryStandard: Mac news briefs: 3D and animation http://bit.ly/bz4fXt Full http://bit.ly/aMaMN8"
+    - <a href="http://apiwiki.twitter.com/" rel="nofollow">API</a>
+    - 
+    - 
+    - false
+  - - "19"
+    - "1081"
+    - "10522557716"
+    - 2010-02-22 15:39:50
+    - I'm at The Driskill in Austin, TX http://gowal.la/s/3K1
+    - <a href="http://gowalla.com/" rel="nofollow">Gowalla</a>
+    - "-97.7415"
+    - "30.2678"
+    - true
+  - - "20"
+    - "1422311"
+    - "10522518085"
+    - 2010-02-23 15:38:48
+    - Late breakfast in Austin with @ryan, @veronica, @georgeruiz, and @laughingsquid.
+    - <a href="http://www.seesmic.com/" rel="nofollow">Seesmic</a>
+    - 
+    - 
+    - false
+  - - "21"
+    - "3364401"
+    - "10523180280"
+    - 2010-02-23 15:55:01
+    - new Digg button is 61 pixels high - same as the RT button... just saying
+    - web
+    - 
+    - 
+    - false
+  - - "22"
+    - "5768872"
+    - "10523143761"
+    - 2010-02-23 15:54:08
+    - "Who was at my #secretwineparty last night? Either location? I want to thank u for coming"
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "23"
+    - "18095878"
+    - "10523208551"
+    - 2010-02-23 15:55:41
+    - Thanks @sherice for that @copyblogger post on making old content work again.
+    - <a href="http://www.seesmic.com/" rel="nofollow">Seesmic</a>
+    - 
+    - 
+    - false
+  - - "24"
+    - "6708952"
+    - "10523183558"
+    - 2010-02-23 15:55:06
+    - "Thanks! RT @RonaldDRamdayal: @SteveCase Great op-ed in WP on HC, more money needs to be spent on preventative medicine http://bit.ly/4IuHjT"
+    - <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a>
+    - 
+    - 
+    - false
+  - - "25"
+    - "688483"
+    - "10523266003"
+    - 2010-02-23 15:57:06
+    - "RT @stickybitsinc: We're looking for a ninja python developer that would like to be engineer #3 at stickybits! @me !"
+    - <a href="http://www.brizzly.com" rel="nofollow">Brizzly</a>
+    - "-97.7425"
+    - "30.2615"
+    - true
+  - - "26"
+    - "8467052"
+    - "10523304696"
+    - 2010-02-23 15:58:03
+    - Most of the successful people I've known are the ones who do more listening than talking. - Bernard Baruch, US Economist (via @DKMatai) +1
+    - <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+    - 
+    - 
+    - false
+  - - "27"
+    - "14267591"
+    - "10523283409"
+    - 2010-02-23 15:57:31
+    - Bring it on!! http://twitpic.com/18rklb come see our pitch at 5pm @Hilton!
+    - <a href="http://www.seesmic.com/" rel="nofollow">Seesmic</a>
+    - 
+    - 
+    - false
+  - - "28"
+    - "740983"
+    - "10523327022"
+    - 2010-02-23 15:58:35
+    - "http://ping.fm/p/ozDX1 - Looks like the #3500 geeks arrived #packed #keynote #mix10"
+    - <a href="http://ping.fm/" rel="nofollow">Ping.fm</a>
+    - 
+    - 
+    - false
+  - - "29"
+    - "804863"
+    - "10523372161"
+    - 2010-02-23 15:59:41
+    - "whoa. @alexknowshtml just burst into Hilton J, head-butted guy on stage & shouted \"COWORKING IN ROOM I MOFOS!\" then ran out #sxsw #wtf"
+    - web
+    - 
+    - 
+    - false
+  - - "30"
+    - "2206131"
+    - "10523358019"
+    - 2010-02-24 15:59:20
+    - "Nice Apple rant! \"iPhone: Sterile Disney-fied walled garden surrounded by sharp-toothed lawyers.\" Freedom not optional. http://bit.ly/cIELR6"
+    - web
+    - 
+    - 
+    - false
+  - - "31"
+    - "11178592"
+    - "10523355592"
+    - 2010-02-24 15:59:17
+    - "Tweetie for Mac not refreshing for you? Give this build a shot: http://bit.ly/a7Hz1H (pushing update to everyone shortly)."
+    - <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+    - 
+    - 
+    - false
+  - - "32"
+    - "788994"
+    - "10523407183"
+    - 2010-02-24 16:00:27
+    - "@Zee great post, I definitely agree."
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "33"
+    - "20806376"
+    - "10523397045"
+    - 2010-02-24 16:00:15
+    - Few surprises in seeds as NCAA bracket announced http://ow.ly/1l2kK
+    - <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a>
+    - 
+    - 
+    - false
+  - - "34"
+    - "989"
+    - "10523470416"
+    - 2010-02-24 16:01:54
+    - "Ning\xE2\x80\x99s CEO Shuffle: Gina Bianchini Steps\xC2\xA0Down http://bit.ly/aPlTjW from @gigaom"
+    - web
+    - 
+    - 
+    - false
+  - - "35"
+    - "607"
+    - "10523446763"
+    - 2010-02-24 16:01:21
+    - Really excited to announce we've baked @skyhookwireless's SpotRank into our API! http://tcrn.ch/aFsz6p /via @joestump
+    - web
+    - 
+    - 
+    - false
+  - - "36"
+    - "14368074"
+    - "10523520294"
+    - 2010-02-24 16:03:06
+    - "poetic waxy buildup ... RT @millercan: @craignewmark were you just waxing poetic?"
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "37"
+    - "14368074"
+    - "10523508310"
+    - 2010-02-24 16:02:49
+    - "one great insight from Clay Shirky at #sxsw (via @om) http://bit.ly/bgZWoV"
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "38"
+    - "804863"
+    - "10523501731"
+    - 2010-02-24 16:02:40
+    - "sitting in Hilton K now waiting for #twittertolstoy to start. pretty thin crowd"
+    - web
+    - 
+    - 
+    - false
+  - - "39"
+    - "23101838"
+    - "10523501004"
+    - 2010-02-24 16:02:39
+    - "SiValleyMercuryNews: Report: Google near certain to close China site http://bit.ly/cp2vQL Full http://bit.ly/ciyXzX"
+    - <a href="http://apiwiki.twitter.com/" rel="nofollow">API</a>
+    - 
+    - 
+    - false
+  - - "40"
+    - "16795023"
+    - "10523543788"
+    - 2010-02-25 16:03:38
+    - Richmont Group buys controlling interest in luxury ecommerce site Net-a-Porter http://bit.ly/cwjY4R
+    - web
+    - 
+    - 
+    - false
+  - - "41"
+    - "5768872"
+    - "10523537496"
+    - 2010-02-25 16:03:29
+    - "My talk is at 1230 right? #sxsw just confirming ... no sleep might be qn issue for todays keynote ;)"
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "42"
+    - "15023"
+    - "10523535153"
+    - 2010-02-25 16:03:26
+    - The Yo-Yo dude on the mix site might be the most impressive thing I have ever seen.
+    - <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+    - 
+    - 
+    - false
+  - - "43"
+    - "13566292"
+    - "10523533790"
+    - 2010-02-25 16:03:24
+    - "@Zee in London in June - would love to stop by and say hello"
+    - web
+    - 
+    - 
+    - false
+  - - "44"
+    - "804863"
+    - "10523615525"
+    - 2010-02-25 16:05:19
+    - "\"of course, I'm just BSing here\" #twittertolstoy I think that's a sign this might suck"
+    - web
+    - 
+    - 
+    - false
+  - - "45"
+    - "804863"
+    - "10523656367"
+    - 2010-02-25 16:06:15
+    - "these people are totally unprepared #twittertolstoy 4 of the 10 audience members have left already"
+    - web
+    - 
+    - 
+    - false
+  - - "46"
+    - "2384071"
+    - "10523648240"
+    - 2010-02-25 16:06:04
+    - "25th anniversary today of the very first dot com address:  http://bit.ly/c49Hpy"
+    - <a href="http://www.seesmic.com/" rel="nofollow">Seesmic</a>
+    - 
+    - 
+    - false
+  - - "47"
+    - "11752"
+    - "10523646417"
+    - 2010-02-25 16:06:01
+    - "nice! Google says they're making Gmail faster for people who use it a lot: http://tcrn.ch/cstL84"
+    - <a href="http://cotweet.com/?utm_source=sp1" rel="nofollow">CoTweet</a>
+    - 
+    - 
+    - false
+  - - "48"
+    - "14368074"
+    - "10523634752"
+    - 2010-02-25 16:05:45
+    - "one great insight from @cshirky Clay Shirky at #sxsw (via @om) http://bit.ly/bgZWoV (retweet to get right reference in)"
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "49"
+    - "740983"
+    - "10523622253"
+    - 2010-02-25 16:05:28
+    - "http://ping.fm/p/Y1VTy - Another #mix10 packed keynote room pic"
+    - <a href="http://ping.fm/" rel="nofollow">Ping.fm</a>
+    - 
+    - 
+    - false
+  - - "50"
+    - "14368074"
+    - "10523704003"
+    - 2010-02-26 16:07:22
+    - "Frum is honest, which might get him in trouble... RT @craftyb: @craignewmark another goody on #HCR http://bit.ly/9BQYYS"
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "51"
+    - "804863"
+    - "10523694210"
+    - 2010-02-26 16:07:08
+    - "second time he said \"keep in mind, I'm just BSing\" sorry dude. 2 strikes I'm out of here #twittertolstoy"
+    - web
+    - 
+    - 
+    - false
+  - - "52"
+    - "15023"
+    - "10523684348"
+    - 2010-02-26 16:06:54
+    - "RT @newsycombinator: Tips to reduce Amazon ec2 costs http://bit.ly/bfowwK"
+    - <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+    - 
+    - 
+    - false
+  - - "53"
+    - "14368074"
+    - "10523748308"
+    - 2010-02-26 16:08:25
+    - "thanks! RT @Scar3crow: Great information about  renters' rights in NYC apartments:  http://bit.ly/bRAobF  @craignewmark"
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "54"
+    - "3382"
+    - "10523731093"
+    - 2010-02-26 16:08:00
+    - "How Jesus Christ can improve your Conversions http://klck.me/Acl /by @noahkagan #measure"
+    - <a href="http://sharefeed.com" rel="nofollow">ShareFeed</a>
+    - 
+    - 
+    - false
+  - - "55"
+    - "5768872"
+    - "10523729131"
+    - 2010-02-26 16:07:58
+    - hope peeps aren't going 2 lunch today instead of my talk at sxsw @ 1230 in ballroom D? Trying 2 figure out how much wine I need, who's in?
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "56"
+    - "770289"
+    - "10523770786"
+    - 2010-02-26 16:08:58
+    - "@om - maybe in terms of total apps. Definitely not in terms of revenues developers make - Facebook platform &gt;&gt; iPhone platform."
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "57"
+    - "17977475"
+    - "10523769628"
+    - 2010-02-26 16:08:56
+    - "Stuck at JFK with @spotify crew headed to #sxsw - flight is delayed ..."
+    - <a href="http://ubertwitter.com" rel="nofollow">UberTwitter</a>
+    - 
+    - 
+    - false
+  - - "58"
+    - "418"
+    - "10523767829"
+    - 2010-02-26 16:08:53
+    - Hey SXSW'ers, check out your "history" page to see a recap of friends & events you've overlapped with! http://foursquare.com/history
+    - web
+    - 
+    - 
+    - false
+  - - "59"
+    - "833071"
+    - "10523871982"
+    - 2010-02-26 16:11:26
+    - "RT @DaveHamilton: @furrier yep, I talked about that on our Mac Geek Gab podcast when it was first announced - needs fast user switching!!"
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "60"
+    - "7161172"
+    - "10523860463"
+    - 2010-02-27 16:11:10
+    - ". Boris's post on NOT \"launching\" ur startup has been submitted to HN, if u think it's worthy, pls vote it up here:  http://bit.ly/9xdh1c"
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "61"
+    - "833071"
+    - "10523858920"
+    - 2010-02-27 16:11:08
+    - just wishing I could be in Boston for 3/17 ... random thought
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "62"
+    - "833071"
+    - "10523890105"
+    - 2010-02-27 16:11:53
+    - "thx RT @zerodave: @HuntHenning we need a kind of always on VPN for smartphones..Several exist check @richardebaker's http://bit.ly/ami6Jp"
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "63"
+    - "15023"
+    - "10523936760"
+    - 2010-02-27 16:13:02
+    - hmm....already sounds like my prediction on Silverlight getting shit canned is already wrong. Damn. Maybe next year.
+    - <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+    - 
+    - 
+    - false
+  - - "64"
+    - "14422705"
+    - "10524009324"
+    - 2010-02-27 16:14:48
+    - "btw, for those gurus & mavens who had companies spend $ on SXSW, here is a list of all brands i've noticed since the show started: &lt;EOM&g"
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "65"
+    - "781293"
+    - "10524004928"
+    - 2010-02-27 16:14:42
+    - "Paradoja:  la mayoria de los neologismos que acepta la RAE son producidos por los que menos lengua saben: por ej, alm\xC3\xB3ndigas."
+    - <a href="http://www.seesmic.com/" rel="nofollow">Seesmic</a>
+    - 
+    - 
+    - false
+  - - "66"
+    - "5768872"
+    - "10524047532"
+    - 2010-02-27 16:15:43
+    - I Will NOT CURSE at my sxsw talk today at 1230 in ballroom D... No I won't!
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "67"
+    - "20806376"
+    - "10524022296"
+    - 2010-02-27 16:15:08
+    - Evan Williams says Twitter fundamental to government http://ow.ly/1l2B5
+    - <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a>
+    - 
+    - 
+    - false
+  - - "68"
+    - "24121099"
+    - "10524062320"
+    - 2010-02-27 16:16:05
+    - Haven't gotten a cold this bad for a long time! Feels like a terminal illness.
+    - <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+    - "-97.7344"
+    - "30.3541"
+    - true
+  - - "69"
+    - "788994"
+    - "10524129532"
+    - 2010-02-27 16:17:43
+    - I don't like Opera 5 mini on my Android phone...
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "70"
+    - "1159251"
+    - "10524161396"
+    - 2010-02-28 16:18:30
+    - Landed. All the rains have turned the mountains and hills in bay area lush with beautiful green grass.
+    - <a href="http://echofon.com/" rel="nofollow">Echofon</a>
+    - 
+    - 
+    - false
+  - - "71"
+    - "918711"
+    - "10524156636"
+    - 2010-02-28 16:18:24
+    - Love this wall. Will become my mac background http://yfrog.com/eu8pbj
+    - <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+    - 
+    - 
+    - false
+  - - "72"
+    - "12354252"
+    - "10524155320"
+    - 2010-02-28 16:18:22
+    - Remember the $10K bill fr AT&T? It amounts to a 300x uplift due to roaming. 300! Fleecing consumers = bad AT&T! http://bit.ly/a6SPpo
+    - <a href="http://bit.ly" rel="nofollow">bit.ly</a>
+    - 
+    - 
+    - false
+  - - "73"
+    - "823083"
+    - "10524201713"
+    - 2010-02-28 16:19:30
+    - Silverlight on 60% of machines;  olympics media player open sourced;
+    - <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+    - 
+    - 
+    - false
+  - - "74"
+    - "2281521"
+    - "10524196835"
+    - 2010-02-28 16:19:23
+    - ok ok. Ui is almost done. got the Ui app part on my phone playing with it.
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "75"
+    - "12354252"
+    - "10524181737"
+    - 2010-02-28 16:19:01
+    - Remember the $10K bill i got fr AT&T? It amounts to a 300x uplift for roaming. 300! Fleecing consumers = ATT http://bit.ly/a6SPpo
+    - <a href="http://bit.ly" rel="nofollow">bit.ly</a>
+    - 
+    - 
+    - false
+  - - "76"
+    - "858051"
+    - "10524266589"
+    - 2010-02-28 16:21:05
+    - "Live Blogging SXSW: Social Search, A Little Help From My Friends, http://selnd.com/a1xJWi"
+    - <a href="http://www.seesmic.com/" rel="nofollow">Seesmic</a>
+    - 
+    - 
+    - false
+  - - "77"
+    - "12354252"
+    - "10524224569"
+    - 2010-02-28 16:20:04
+    - "\"Using wireless data outside your home country is about as smart as juggling chainsaws.\" AT&T should be more upfront! http://bit.ly/a6SPpo"
+    - <a href="http://bit.ly" rel="nofollow">bit.ly</a>
+    - 
+    - 
+    - false
+  - - "78"
+    - "14270436"
+    - "10524293073"
+    - 2010-02-28 16:21:44
+    - New hard disks trip on Windows XP as sector size goes from 512 to 4096 bytes http://tr.im/RXOS but XP still top OS by far http://tr.im/RXT5
+    - <a href="http://www.grabbit.net" rel="nofollow">Grabbit.net</a>
+    - 
+    - 
+    - false
+  - - "79"
+    - "1422311"
+    - "10524349213"
+    - 2010-02-28 16:23:09
+    - At the Austin Music Hall setting stuff up for the @gdgt event tonight.
+    - <a href="http://www.seesmic.com/" rel="nofollow">Seesmic</a>
+    - 
+    - 
+    - false
+  - - "80"
+    - "2226061"
+    - "10524329602"
+    - 2010-03-01 16:22:39
+    - Power breakfast. (@ BeverLiz) http://4sq.com/alul8p
+    - <a href="http://foursquare.com" rel="nofollow">foursquare</a>
+    - "-118.399"
+    - "34.0616"
+    - true
+  - - "81"
+    - "2226061"
+    - "10524328168"
+    - 2010-03-01 16:22:37
+    - I just became the mayor of BeverLiz on @foursquare! http://4sq.com/alul8p
+    - <a href="http://foursquare.com" rel="nofollow">foursquare</a>
+    - "-118.399"
+    - "34.0616"
+    - true
+  - - "82"
+    - "1159251"
+    - "10524324381"
+    - 2010-03-01 16:22:31
+    - "Congrats @ginab! RT @VentureBeat: Ning CEO Bianchini steps down to become EIR at Andreessen Horowitz http://bit.ly/a6BQHZ by @kimmaicutler"
+    - <a href="http://echofon.com/" rel="nofollow">Echofon</a>
+    - 
+    - 
+    - false
+  - - "83"
+    - "59213"
+    - "10524389105"
+    - 2010-03-01 16:24:09
+    - jeff jarvis just came into the blogger room - people seem to be crowding around and lining up to talk to him
+    - web
+    - 
+    - 
+    - false
+  - - "84"
+    - "15023"
+    - "10524356390"
+    - 2010-03-01 16:23:19
+    - ebay cares about the user experience. That is funny.
+    - <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+    - 
+    - 
+    - false
+  - - "85"
+    - "781293"
+    - "10524430209"
+    - 2010-03-01 16:25:10
+    - Did you know that you stop being private on Facebook when you join most groups?  those are indexed
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "86"
+    - "2172"
+    - "10524426438"
+    - 2010-03-01 16:25:04
+    - "on 4/12 @ConanOBrien is starting a 30 city tour called \xE2\x80\x9CThe Legally Prohibited From Being Funny On Television Tour\xE2\x80\x9D http://bit.ly/bNtPEC"
+    - <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a>
+    - 
+    - 
+    - false
+  - - "87"
+    - "15705567"
+    - "10524415972"
+    - 2010-03-01 16:24:48
+    - "hope she sticks around at Demand, for a change Rt @karaswisher Yahoo's Bradford Leaving for Demand Media: http://bit.ly/cm3o6Z #pcbuzz"
+    - <a href="http://www.seesmic.com/" rel="nofollow">Seesmic</a>
+    - 
+    - 
+    - false
+  - - "88"
+    - "14368074"
+    - "10524455357"
+    - 2010-03-01 16:25:46
+    - "RT @mathewi: RT  @jayrosen_nyu \"The current (old) news system is an artifact of the era of industrial production\" #SXSW #futureofcontext"
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "89"
+    - "14368074"
+    - "10524496818"
+    - 2010-03-01 16:26:48
+    - "good show!    RT @Rafe: Getting ready to go on Forum at 9am PST. Listen at http://bit.ly/3CzJn (@ KQED) http://4sq.com/c3iUv3"
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "90"
+    - "14401550"
+    - "10524495640"
+    - 2010-03-02 16:26:46
+    - RT @davidchivers Variety, Hollywood Rep. struggling as show-biz insider knowledge becomes ubiquitous, free on the Web http://nyti.ms/cSFY24
+    - web
+    - 
+    - 
+    - false
+  - - "91"
+    - "1159251"
+    - "10524485632"
+    - 2010-03-02 16:26:31
+    - "What a great compliment RT @garyvee: @baratunde meeeeeeeee I need it, she will be fine, knowing ur in the crowd will up my game"
+    - <a href="http://echofon.com/" rel="nofollow">Echofon</a>
+    - 
+    - 
+    - false
+  - - "92"
+    - "14368074"
+    - "10524480751"
+    - 2010-03-02 16:26:24
+    - "RT @Rasiej: Ushahidi crisis mapping is saving lives and changing the way we think about what is possible: http://nyti.ms/c8dLDh"
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "93"
+    - "12"
+    - "10524479893"
+    - 2010-03-02 16:26:23
+    - "RT @LouSagar: Join us tonight for a live event with AiWeiwei @rwww, @aiww on digital activism and social media. @jack http://cot.ag/a079IP"
+    - <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+    - 
+    - 
+    - false
+  - - "94"
+    - "14368074"
+    - "10524526444"
+    - 2010-03-02 16:27:32
+    - "RT @timoreilly: 25th anniversary today of the very first dot com address:  http://bit.ly/c49Hpy"
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "95"
+    - "8467052"
+    - "10524579718"
+    - 2010-03-02 16:28:52
+    - Alicia Keys should stick to playing and singing her ass off, instead of trying to dance like Britney/Janet/etc....just not her thing
+    - <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+    - 
+    - 
+    - false
+  - - "96"
+    - "20806376"
+    - "10524638468"
+    - 2010-03-02 16:30:19
+    - Facebook to open office in southern India http://ow.ly/1l2N7
+    - <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a>
+    - 
+    - 
+    - false
+  - - "97"
+    - "24296208"
+    - "10524601799"
+    - 2010-03-02 16:29:25
+    - Today 25th anniversary of first dotcom registration - BBC - Dotcom silver anniversary http://bit.ly/bAuaGH
+    - <a href="http://bit.ly" rel="nofollow">bit.ly</a>
+    - 
+    - 
+    - false
+  - - "98"
+    - "4557111"
+    - "10524665651"
+    - 2010-03-02 16:30:57
+    - Just tried speaking for the first time today. Oh my.
+    - <a href="/devices" rel="nofollow">txt</a>
+    - 
+    - 
+    - false
+  - - "99"
+    - "901651"
+    - "10524659705"
+    - 2010-03-02 16:30:49
+    - New record. On the ground for 10 minutes - made the connection!  Apologies to all who lost the bet.
+    - <a href="http://www.seesmic.com/" rel="nofollow">Seesmic</a>
+    - 
+    - 
+    - false
+  - - "100"
+    - "23101838"
+    - "10524652402"
+    - 2010-03-03 16:30:38
+    - "IndustryStandard: East Africa operators create backhaul link http://bit.ly/bjF4Xj Full http://bit.ly/axgSjH"
+    - <a href="http://apiwiki.twitter.com/" rel="nofollow">API</a>
+    - 
+    - 
+    - false
+  - - "101"
+    - "2384071"
+    - "10524718807"
+    - 2010-03-03 16:32:15
+    - "A good maxim for today's overcharged politics: \"Everyone is entitled to his own opinion, but not his own facts.\" -- Daniel Patrick Moynihan"
+    - <a href="http://www.seesmic.com/" rel="nofollow">Seesmic</a>
+    - 
+    - 
+    - false
+  - - "102"
+    - "12354252"
+    - "10524699658"
+    - 2010-03-03 16:31:46
+    - AT&T had my assistant crying. She had verbal agreement to eliminate charges then AT&T rep went on maternity leave, now says I must pay 7K.
+    - web
+    - 
+    - 
+    - false
+  - - "103"
+    - "804863"
+    - "10524690077"
+    - 2010-03-03 16:31:33
+    - "smartest thing I've heard today: \"coworking doesn't require colocation\" #sxsw #coworking"
+    - web
+    - 
+    - 
+    - false
+  - - "104"
+    - "768632"
+    - "10524687128"
+    - 2010-03-03 16:31:29
+    - "This week's Key Hire Wire: Homerun.com is hiring a VP of Revenue http://frc.vc/3BD (join our mailing list here http://frc.vc/3BF)"
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "105"
+    - "814304"
+    - "10524753860"
+    - 2010-03-03 16:33:07
+    - "Thanks everyone for attending #opensci at SXSW! Here is the link to our presentation slides: http://arielwaldman.com/SXSWOpenScience.pdf ."
+    - web
+    - 
+    - 
+    - false
+  - - "106"
+    - "420363"
+    - "10524749260"
+    - 2010-03-03 16:33:00
+    - I have only one word to express my feelings about daylight savings time.  uuuallghspphhhlptt (via @lemay)
+    - <a href="http://twitterrific.com" rel="nofollow">Twitterrific</a>
+    - 
+    - 
+    - false
+  - - "107"
+    - "989"
+    - "10524739223"
+    - 2010-03-03 16:32:45
+    - "Happy Anniversary: 25 Years of\xC2\xA0Dot-coms http://bit.ly/aQJnq1 from @gigaom"
+    - web
+    - 
+    - 
+    - false
+  - - "108"
+    - "14270436"
+    - "10524796676"
+    - 2010-03-03 16:34:11
+    - "Windows XP still rules, big time: 4X as many users as Vista, 7X more than Windows 7, 15X more than MacOS http://tr.im/RY6a"
+    - <a href="http://www.grabbit.net" rel="nofollow">Grabbit.net</a>
+    - 
+    - 
+    - false
+  - - "109"
+    - "768632"
+    - "10524794960"
+    - 2010-03-03 16:34:09
+    - "RT @kmaverick: I'm gone from SXSW, but if you're interested in those cool water bottles I was handing out, follow @waterbobble !"
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "110"
+    - "788994"
+    - "10524778651"
+    - 2010-03-04 16:33:44
+    - Check Point and SanDisk Deliver Secure Virtual Workspace - Press Release http://bit.ly/d4kCha
+    - web
+    - 
+    - 
+    - false
+  - - "111"
+    - "7112242"
+    - "10524838183"
+    - 2010-03-04 16:35:11
+    - I'm already back in SF, but you should go to the meetup - Juan Sequeda will be there
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "112"
+    - "7112242"
+    - "10524814984"
+    - 2010-03-04 16:34:37
+    - "Semantic Web meetup in Austin at #SXSW today 12 to 5 at the Texas Coworking ofc (beer and BBQ provided) http://bit.ly/ca2qid"
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "113"
+    - "12354252"
+    - "10524813188"
+    - 2010-03-04 16:34:34
+    - "Were you planning to see me at workplace collab session at #sxswi? I'm home sick, BUT do go, cause my replacement is WAY awesome: @glubbert"
+    - web
+    - 
+    - 
+    - false
+  - - "114"
+    - "24296208"
+    - "10524872977"
+    - 2010-03-04 16:36:02
+    - Woman aims to become world's fattest http://bit.ly/96pQzg -- Is New Jersey a "Right to Die" state?
+    - <a href="http://bit.ly" rel="nofollow">bit.ly</a>
+    - 
+    - 
+    - false
+  - - "115"
+    - "11752"
+    - "10524868427"
+    - 2010-03-04 16:35:55
+    - "For NPR, The iPad Means a New App \xE2\x80\x93 And a New Web Site http://bit.ly/bEc3iu #media \xE2\x80\x93 interesting notes about the iPad too"
+    - <a href="http://bit.ly" rel="nofollow">bit.ly</a>
+    - 
+    - 
+    - false
+  - - "116"
+    - "804863"
+    - "10524898765"
+    - 2010-03-04 16:36:41
+    - "Swart from Odesk is talking good stuff at #coworkingfuture about coworking without colocation. very smart. #sxsw"
+    - web
+    - 
+    - 
+    - false
+  - - "117"
+    - "804863"
+    - "10524953090"
+    - 2010-03-04 16:38:06
+    - "work is no longer \"place\" it's about \"communication, communication, communication\" #amen #sxsw #coworkingfuture"
+    - web
+    - 
+    - 
+    - false
+  - - "118"
+    - "23101838"
+    - "10524951293"
+    - 2010-03-04 16:38:02
+    - "Fast Company: Almost Genius: Spokeless Bike Wheels http://bit.ly/bjs1Qr Full http://bit.ly/dkf8Gl"
+    - <a href="http://apiwiki.twitter.com/" rel="nofollow">API</a>
+    - 
+    - 
+    - false
+  - - "119"
+    - "23101838"
+    - "10524943900"
+    - 2010-03-04 16:37:50
+    - "PCWorld: Oracle Loses XML Co-inventor to Google http://bit.ly/cdF4Cp Full http://bit.ly/acmIXK"
+    - <a href="http://apiwiki.twitter.com/" rel="nofollow">API</a>
+    - 
+    - 
+    - false
+  - - "120"
+    - "2182641"
+    - "10525010286"
+    - 2010-03-05 16:39:35
+    - "Easiest way to grasp Rio's layout: look at it in Google Earth with topography. Normal maps way too 2D for city with such vertical movement."
+    - <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+    - 
+    - 
+    - false
+  - - "121"
+    - "13294"
+    - "10524981743"
+    - 2010-03-05 16:38:50
+    - Grow a company by Killing Things (reprinted in HuffPo) - http://bit.ly/bwiO93
+    - web
+    - 
+    - 
+    - false
+  - - "122"
+    - "7161172"
+    - "10525054710"
+    - 2010-03-05 16:40:42
+    - "The Next Web is at Microsoft's #Mix10. If you've got something excited to show off, get in touch with @jamieridell"
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "123"
+    - "947721"
+    - "10525094064"
+    - 2010-03-05 16:41:42
+    - "Amazing production and organization #mix (@ MIX 2010 at Mandalay Bay w/  @loic @mathieu) http://4sq.com/clFOZd"
+    - <a href="http://foursquare.com" rel="nofollow">foursquare</a>
+    - 
+    - 
+    - false
+  - - "124"
+    - "9715522"
+    - "10525063937"
+    - 2010-03-05 16:40:56
+    - "I'm at After Magazines: WIRED\xE2\x80\x99s Digital Rebirth w/ 7 others. http://4sq.com/bKFNa1"
+    - <a href="http://foursquare.com" rel="nofollow">foursquare</a>
+    - 
+    - 
+    - false
+  - - "125"
+    - "12354252"
+    - "10525132825"
+    - 2010-03-05 16:42:40
+    - Hey guess what? @ATTJulie tweeted me asking if she can fix my problem.
+    - web
+    - 
+    - 
+    - false
+  - - "126"
+    - "36183"
+    - "10525108596"
+    - 2010-03-05 16:42:04
+    - Tweeto, ergo sum. http://bit.ly/94ZBrJ
+    - <a href="http://twitterrific.com" rel="nofollow">Twitterrific</a>
+    - 
+    - 
+    - false
+  - - "127"
+    - "7161172"
+    - "10525164945"
+    - 2010-03-05 16:43:29
+    - "The Next Web is at Microsoft's #Mix10. If you've got something excited to show off, get in touch with @jamieriddell"
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "128"
+    - "5768872"
+    - "10525190211"
+    - 2010-03-05 16:44:09
+    - Small FYI-&gt; my talk today is 90% Q and A so get your questions ready, and when I start talking line up!
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "129"
+    - "12371"
+    - "10525256116"
+    - 2010-03-05 16:45:45
+    - Pendulum is helping me to be a wireframing machine! http://bit.ly/9t3jRt
+    - <a href="http://seesmic.com/app" rel="nofollow">Seesmic Web</a>
+    - 
+    - 
+    - false
+  - - "130"
+    - "5814"
+    - "10525239581"
+    - 2010-03-06 16:45:20
+    - "\"Everyone is entitled to his own opinion, but not his own facts.\" -- Sen. Moynihan (via @timoreilly)"
+    - <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+    - 
+    - 
+    - false
+  - - "131"
+    - "20806376"
+    - "10525231689"
+    - 2010-03-06 16:45:10
+    - Spy Takes US/Israeli Secrets to Grave http://ow.ly/1l36a
+    - <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a>
+    - 
+    - 
+    - false
+  - - "132"
+    - "3533231"
+    - "10525272396"
+    - 2010-03-06 16:46:10
+    - "Two words that are #awesome words: bacon infused."
+    - <a href="http://simplytweet.com" rel="nofollow">SimplyTweet</a>
+    - 
+    - 
+    - false
+  - - "133"
+    - "13418552"
+    - "10525336078"
+    - 2010-03-06 16:47:48
+    - "RT: @rpreece @cyantist i was just looking at the front page of zivity, i think a zivity barber shop would b the greatest thing ever"
+    - web
+    - 
+    - 
+    - false
+  - - "134"
+    - "1081"
+    - "10525331263"
+    - 2010-03-06 16:47:41
+    - "sucks 2 b me: my panel on \"who needs VC?\" going head-2-head @garyvee -- guess who gets Krushed? (dammit!)"
+    - <a href="/devices" rel="nofollow">txt</a>
+    - 
+    - 
+    - false
+  - - "135"
+    - "1051171"
+    - "10525323396"
+    - 2010-03-06 16:47:29
+    - "Eduard Khil (Mr. Trololo) watches YouTube videos parodying/celebrating his performance: http://is.gd/aIhrN (via bopuc)"
+    - web
+    - 
+    - 
+    - false
+  - - "136"
+    - "12354252"
+    - "10525323278"
+    - 2010-03-06 16:47:29
+    - .@donttrythis AT&T is trying to charge me 10K+ (similar situation to yours) http://bit.ly/a6SPpo. Any advice to offer?
+    - web
+    - 
+    - 
+    - false
+  - - "137"
+    - "3855911"
+    - "10525379797"
+    - 2010-03-06 16:48:53
+    - Web guru Tim Bray takes Google Android job. Nice! http://bit.ly/cxvcTZ
+    - <a href="http://tbuzz.arc90.com" rel="nofollow">TBUZZ</a>
+    - 
+    - 
+    - false
+  - - "138"
+    - "15761200"
+    - "10525344532"
+    - 2010-03-06 16:48:01
+    - "Exciting day at #sxsw. Can't wait for @garyvee 's talk! And congrets to @AnyClip and @innonate for the launch!"
+    - web
+    - 
+    - 
+    - false
+  - - "139"
+    - "997"
+    - "10525419828"
+    - 2010-03-06 16:49:56
+    - "Recent Austin facts: From Dec '07 to Dec '09 employment grew 0.8%. Sub $1m house prices did not drop. Population growing @ 50 ppl a day"
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "140"
+    - "1909821"
+    - "10525435977"
+    - 2010-03-07 16:50:20
+    - Be very careful, today. I just saw some reckless Ides "rome-ing" the streets. Beware of them!
+    - <a href="http://www.adjix.com" rel="nofollow">Adjix</a>
+    - 
+    - 
+    - false
+  - - "141"
+    - "1912641"
+    - "10525476702"
+    - 2010-03-07 16:51:21
+    - "New Post:  Twitter to Unveil Advertising Platform Today? http://gri.ms/KRIn by @JordanMcCollum"
+    - web
+    - 
+    - 
+    - false
+  - - "142"
+    - "18095878"
+    - "10525470002"
+    - 2010-03-07 16:51:11
+    - "Going on @univisionkunp at 1:30pm to discuss #labor & #employment #Latino community forum - http://bit.ly/cCbD5G"
+    - <a href="http://seesmic.com/app" rel="nofollow">Seesmic Web</a>
+    - 
+    - 
+    - false
+  - - "143"
+    - "2384071"
+    - "10525539519"
+    - 2010-03-07 16:52:56
+    - BTW, for those asking, the first dot com address belonged to symbolics.com. Sorry, should have added to first tweet. Thx for reminder @suste
+    - <a href="http://www.seesmic.com/" rel="nofollow">Seesmic</a>
+    - 
+    - 
+    - false
+  - - "144"
+    - "24121099"
+    - "10525532168"
+    - 2010-03-07 16:52:45
+    - "Young Chinese girl freaking the hell out of people walking into a building: http://bit.ly/b5iTEW Too funny!"
+    - <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+    - 
+    - 
+    - false
+  - - "145"
+    - "804863"
+    - "10525529519"
+    - 2010-03-07 16:52:41
+    - "unfortunately the panelists didn't really answer the guy who asked the question #coworkingfuture"
+    - web
+    - 
+    - 
+    - false
+  - - "146"
+    - "804863"
+    - "10525509977"
+    - 2010-03-07 16:52:12
+    - "smart question re: at home working due to legal restrictions (problem that I've dealt with in the past; shout out @fbz) #coworkingfuture"
+    - web
+    - 
+    - 
+    - false
+  - - "147"
+    - "1081"
+    - "10525504529"
+    - 2010-03-07 16:52:04
+    - late getting to green room ... on my way mike don't fret
+    - <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+    - 
+    - 
+    - false
+  - - "148"
+    - "2529971"
+    - "10525624307"
+    - 2010-03-07 16:55:07
+    - These guys are amazing entrepreneurs. holy crap. RT @TechCrunch Groupon Directors Establish $100 Million Fund - http://tcrn.ch/d56DfP
+    - web
+    - 
+    - 
+    - false
+  - - "149"
+    - "626973"
+    - "10525609657"
+    - 2010-03-07 16:54:44
+    - "RT @msg: after no sleep last night @garyvee's talk today at 1230pm in ballroom D level 4 - is going to be EPIC"
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "150"
+    - "804863"
+    - "10525593081"
+    - 2010-03-08 16:54:18
+    - "grrr I need a new battery for this effing laptop #sxsw #batteryfailing"
+    - web
+    - 
+    - 
+    - false
+  - - "151"
+    - "688483"
+    - "10525644401"
+    - 2010-03-08 16:55:36
+    - I'm at Austin Convention Center w/ @sawickipedia @zelkovavc @ceonyc. http://4sq.com/8RQqOx
+    - <a href="http://foursquare.com" rel="nofollow">foursquare</a>
+    - "-97.7395"
+    - "30.2636"
+    - true
+  - - "152"
+    - "989"
+    - "10525706131"
+    - 2010-03-08 16:57:12
+    - "FCC\xE2\x80\x99s Broadband Plan: The Role Of Competition http://dlvr.it/DDRl (via @gigaom)"
+    - <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+    - 
+    - 
+    - false
+  - - "153"
+    - "15117711"
+    - "10525703174"
+    - 2010-03-08 16:57:07
+    - "For Global Entrepreneurs Seeking Venture Funds, Networks Are Key http://bit.ly/cRvfC6 #africa #venturecapital"
+    - <a href="http://www.seesmic.com/" rel="nofollow">Seesmic</a>
+    - 
+    - 
+    - false
+  - - "154"
+    - "788994"
+    - "10525689217"
+    - 2010-03-08 16:56:45
+    - Clearly a fake, but a nice attempt to showcase the next "iPhone HD" http://bit.ly/ap4raP
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "155"
+    - "5727392"
+    - "10525673617"
+    - 2010-03-08 16:56:22
+    - "RT @eugenelee: I just ousted @ross as mayor of Socialtext HQ on @foursquare! &gt; i think he happily let you do that a few yrs ago no? :)))"
+    - <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a>
+    - 
+    - 
+    - false
+  - - "156"
+    - "5768872"
+    - "10525736764"
+    - 2010-03-08 16:57:58
+    - http://twitpic.com/18rvdk hollllllllly crap this is a big room! Bring 2 friends otherwise this room is gonna be empty
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "157"
+    - "788994"
+    - "10525785419"
+    - 2010-03-08 16:59:13
+    - "Pic of the Day: The Upside Down House http://bit.ly/aQhipm courtesy of @theengteacher"
+    - <a href="http://bit.ly" rel="nofollow">bit.ly</a>
+    - 
+    - 
+    - false
+  - - "158"
+    - "6708952"
+    - "10525830793"
+    - 2010-03-08 17:00:19
+    - "\"One person with passion is better than forty people merely interested.\" \xE2\x80\x94 E. M. Forste (via @TonyRobbins)"
+    - <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a>
+    - 
+    - 
+    - false
+  - - "159"
+    - "20806376"
+    - "10525829419"
+    - 2010-03-08 17:00:17
+    - How I Got the Goods on Madoff, and Why No One Would Listen http://ow.ly/1l3gj
+    - <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a>
+    - 
+    - 
+    - false
+  - - "160"
+    - "833071"
+    - "10525813417"
+    - 2010-03-09 16:59:56
+    - EMC hires new CMO Jeremy Burton http://siliconangle.com/sabackchan/2010/03/15/emc-appoints-industry-veteran-jeremy-bur/
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "161"
+    - "23101838"
+    - "10525870473"
+    - 2010-03-09 17:01:15
+    - "VentureBlog:  The Inbox Treasure Hunt: How Not to be a Jerk By David Hornik http://bit.ly/cqEjax Full http://bit.ly/1aQhuA"
+    - <a href="http://apiwiki.twitter.com/" rel="nofollow">API</a>
+    - 
+    - 
+    - false
+  - - "162"
+    - "3533231"
+    - "10525867444"
+    - 2010-03-09 17:01:11
+    - Women in Social Media "flash panel" about to start (@ PepsiCo Podcast Playground) http://4sq.com/92iqJV
+    - <a href="http://foursquare.com" rel="nofollow">foursquare</a>
+    - 
+    - 
+    - false
+  - - "163"
+    - "15024407"
+    - "10525866108"
+    - 2010-03-09 17:01:09
+    - ".@hillel @jacksonfish  congrats on the great mention in #mix10!"
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "164"
+    - "23101838"
+    - "10525853743"
+    - 2010-03-09 17:00:49
+    - "SVSJBusJournal: Ning CEO Bianchini moving to Andreessen Horowitz http://bit.ly/90UA0R Full http://bit.ly/akAk0y"
+    - <a href="http://apiwiki.twitter.com/" rel="nofollow">API</a>
+    - 
+    - 
+    - false
+  - - "165"
+    - "3382"
+    - "10525845593"
+    - 2010-03-09 17:00:38
+    - "New #Startup Ideas Spreadsheet http://klck.me/AeG"
+    - web
+    - 
+    - 
+    - false
+  - - "166"
+    - "989"
+    - "10525916389"
+    - 2010-03-09 17:02:23
+    - my tendinitis strikes again. dropped a hot cup of tea because of pain caused by awkward pick-up angle. bah. no typing for today.
+    - <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+    - 
+    - 
+    - false
+  - - "167"
+    - "890381"
+    - "10525905318"
+    - 2010-03-09 17:02:07
+    - Really love how quiet my iMac is, especially compared to the noisy Dell system I've been using for the past few years.
+    - <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+    - 
+    - 
+    - false
+  - - "168"
+    - "7517052"
+    - "10525900063"
+    - 2010-03-09 17:01:59
+    - Sitting on a train to San Diego pitching sitcoms to poor Rob http://www.imdb.com/media/rm184063744/nm1117791
+    - web
+    - 
+    - 
+    - false
+  - - "169"
+    - "7458572"
+    - "10525943735"
+    - 2010-03-09 17:03:04
+    - TechStars released our full historical results for all 39 past companies. 10% failed, 70% raised VC http://www.techstars.org/results/
+    - web
+    - 
+    - 
+    - false
+  - - "170"
+    - "890381"
+    - "10525931796"
+    - 2010-03-10 17:02:45
+    - ...but I'm not wild about the amount of heat this thing generates.  I expect to have an iMac tan before too long :)
+    - <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+    - 
+    - 
+    - false
+  - - "171"
+    - "3713811"
+    - "10525996676"
+    - 2010-03-10 17:04:25
+    - Added some bits to my office via @stickybitsinc http://bit.ly/9wtV6Q
+    - web
+    - "-71.0772"
+    - "42.3511"
+    - true
+  - - "172"
+    - "16203586"
+    - "10525961915"
+    - 2010-03-10 17:03:31
+    - Great to have @zappos_alfred come by @livestronghq
+    - web
+    - 
+    - 
+    - false
+  - - "173"
+    - "7161172"
+    - "10526045835"
+    - 2010-03-10 17:05:37
+    - "Silverlight developers, get in touch - we've got an app for you to build. No prizes for guessing what....Email: rec@thenextweb.com"
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "174"
+    - "806975"
+    - "10526045433"
+    - 2010-03-10 17:05:36
+    - "RT @pkafka: Big one: RT @karaswisher: Exclusive: Yahoo's Ad sales star Bradford Leaving for Demand Media: http://bit.ly/cm3o6Z"
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "175"
+    - "24121099"
+    - "10526044820"
+    - 2010-03-10 17:05:35
+    - "Ouch, \xC2\xA3400 for my cat's travel ticket."
+    - <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+    - 
+    - 
+    - false
+  - - "176"
+    - "858051"
+    - "10526118315"
+    - 2010-03-10 17:07:28
+    - "Live Blogging SXSW: Social Search, A Little Help From My Friends, http://selnd.com/a1xJWi - great panel, @brynn rocked #sxsw #socialsearch"
+    - <a href="http://www.seesmic.com/" rel="nofollow">Seesmic</a>
+    - 
+    - 
+    - false
+  - - "177"
+    - "23101838"
+    - "10526110302"
+    - 2010-03-10 17:07:16
+    - "IndustryStandard: Tata set to expand presence in Africa http://bit.ly/9npiFZ Full http://bit.ly/c1ymaG"
+    - <a href="http://apiwiki.twitter.com/" rel="nofollow">API</a>
+    - 
+    - 
+    - false
+  - - "178"
+    - "1591961"
+    - "10526101410"
+    - 2010-03-10 17:07:02
+    - "RT @ Assistly Need 2 great, entrepreneurial developers to join us in building our company in SF: http://bit.ly/a4H7xG #rails #ruby #jquery"
+    - web
+    - 
+    - 
+    - false
+  - - "179"
+    - "10841502"
+    - "10526161418"
+    - 2010-03-10 17:08:35
+    - "Exciting SXSW News: BuzzVoice for Bloggers - It's like \"Feedburner for Audio\" http://bit.ly/SXSWBV2 (Get your private beta invite now)"
+    - web
+    - 
+    - 
+    - false
+  - - "180"
+    - "768632"
+    - "10526130982"
+    - 2010-03-11 17:07:48
+    - "RT @DougBernstein: Now David Beckham is like the rest of the U.S. -- will miss the MLS season."
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "181"
+    - "14112294"
+    - "10526186710"
+    - 2010-03-11 17:09:15
+    - "Get ready for @Garyvee to Crush his keynote at 12:30! :) #sxsw"
+    - <a href="http://www.seesmic.com/" rel="nofollow">Seesmic</a>
+    - 
+    - 
+    - false
+  - - "182"
+    - "3533231"
+    - "10526215698"
+    - 2010-03-11 17:09:59
+    - "Cool stage guy \"you guys afraid of microphones?\" @stephagresta & I: \"hahahahaha!\""
+    - <a href="http://simplytweet.com" rel="nofollow">SimplyTweet</a>
+    - 
+    - 
+    - false
+  - - "183"
+    - "7517052"
+    - "10526210969"
+    - 2010-03-11 17:09:52
+    - "my friend @alexbard needs 2 great, entrepreneurial developers to join @assistly in SF: http://bit.ly/a4H7xG #rails #ruby #jquery"
+    - <a href="http://desktop.stocktwits.com/" rel="nofollow">StockTwits Desktop</a>
+    - 
+    - 
+    - false
+  - - "184"
+    - "17201709"
+    - "10526254888"
+    - 2010-03-11 17:10:57
+    - Oskar's Fractal Cube Puzzle http://bit.ly/a5ou7A
+    - <a href="http://bit.ly" rel="nofollow">bit.ly</a>
+    - 
+    - 
+    - false
+  - - "185"
+    - "676203"
+    - "10526251690"
+    - 2010-03-11 17:10:53
+    - "Gee what a great idea. &lt;rolls eyes&gt; RT @LATimesnews: FCC to propose nationwide expansion of high-speed Internet http://bit.ly/bxi4Jo"
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "186"
+    - "7517052"
+    - "10526251244"
+    - 2010-03-11 17:10:52
+    - "You can now submit links for @abnormalreturns to review: http://stk.ly/bQr7Vl  (GET DISCOVERED FAST) $$"
+    - <a href="http://desktop.stocktwits.com/" rel="nofollow">StockTwits Desktop</a>
+    - 
+    - 
+    - false
+  - - "187"
+    - "14267591"
+    - "10526288064"
+    - 2010-03-11 17:11:49
+    - "RT @DebInDenver: just got to see @jasonkintzler of @pitchengine at Level 3's red couch #bizspark #accelerator wish him luck at 5pm!"
+    - <a href="http://www.seesmic.com/" rel="nofollow">Seesmic</a>
+    - 
+    - 
+    - false
+  - - "188"
+    - "740983"
+    - "10526338365"
+    - 2010-03-11 17:13:06
+    - "The live video feed of #mix10 is here getting ready to go on stage http://ping.fm/EujkI"
+    - <a href="http://ping.fm/" rel="nofollow">Ping.fm</a>
+    - 
+    - 
+    - false
+  - - "189"
+    - "833071"
+    - "10526399185"
+    - 2010-03-11 17:14:40
+    - Yankee Group weights in on Cisco's new router - they claim juniper has more capacity http://bit.ly/cAYDvX
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "190"
+    - "24296208"
+    - "10526395488"
+    - 2010-03-12 17:14:34
+    - "John Dodge: IEEE 802 turns 30, passions still run high - SmartPlanet http://bit.ly/afGtLw - Watch 2005 short video on Ethernet history."
+    - <a href="http://bit.ly" rel="nofollow">bit.ly</a>
+    - 
+    - 
+    - false
+  - - "191"
+    - "13418552"
+    - "10526388199"
+    - 2010-03-12 17:14:23
+    - Btw, if you ever stay at the Chateau Marmont -- bring earplugs. The plugs they provide do not block out the sound of parties.
+    - web
+    - 
+    - 
+    - false
+  - - "192"
+    - "14761795"
+    - "10526445787"
+    - 2010-03-12 17:15:48
+    - It's kind of crazy what you can do with today's video-editing tools... http://bit.ly/aUwjCq
+    - web
+    - 
+    - 
+    - false
+  - - "193"
+    - "20806376"
+    - "10526421271"
+    - 2010-03-12 17:15:12
+    - World Cup Managers Carry the hopes of millions http://ow.ly/1l6ta
+    - <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a>
+    - 
+    - 
+    - false
+  - - "194"
+    - "2226061"
+    - "10526523125"
+    - 2010-03-12 17:17:50
+    - "New Blog Post: Vote on comments and replies on @GetGlue http://bit.ly/9qUn7u"
+    - web
+    - 
+    - 
+    - false
+  - - "195"
+    - "14267591"
+    - "10526517473"
+    - 2010-03-12 17:17:41
+    - "about to see #garyvaynerchuck do his thing at #sxswi"
+    - <a href="http://www.seesmic.com/" rel="nofollow">Seesmic</a>
+    - 
+    - 
+    - false
+  - - "196"
+    - "788994"
+    - "10526504339"
+    - 2010-03-12 17:17:20
+    - "\"Chatroulette is the best way to study men's anatomy, a must-have for every student\" - quote by a friend of mine -- unfortunately true..."
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "197"
+    - "32718488"
+    - "10526632225"
+    - 2010-03-12 17:20:37
+    - "RT @ashwinram: Five Reasons Why Universities Need To Support The Startup Visa Movement http://bit.ly/9dl1FB &gt; Many students will benefit"
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "198"
+    - "8467052"
+    - "10526673373"
+    - 2010-03-12 17:21:41
+    - Great op-ed from @SteveCase, "Health-care reform requires healthy living choices", from back in January http://bit.ly/amerEd
+    - <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+    - 
+    - 
+    - false
+  - - "199"
+    - "806975"
+    - "10526668988"
+    - 2010-03-12 17:21:34
+    - Startup developers represent one in five on Apple's App Store - AppleInsider http://bit.ly/ccy8Qt tip @Techmeme
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "200"
+    - "636843"
+    - "10526652648"
+    - 2010-03-13 17:21:09
+    - "RT @deekgeek: We're hosting a Public Media Tweet-up tonight @ Social Media Clubhouse featuring The Ashes! http://ow.ly/1lbZY #smch3"
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "201"
+    - "422"
+    - "10526648791"
+    - 2010-03-13 17:21:02
+    - Beware the Ides of March. Particularly if you have any stabby friends.
+    - <a href="http://www.brizzly.com" rel="nofollow">Brizzly</a>
+    - 
+    - 
+    - false
+  - - "202"
+    - "3382"
+    - "10526722552"
+    - 2010-03-13 17:22:59
+    - The problem with online advertising http://klck.me/AdJ
+    - <a href="http://sharefeed.com" rel="nofollow">ShareFeed</a>
+    - 
+    - 
+    - false
+  - - "203"
+    - "1081"
+    - "10526732068"
+    - 2010-03-13 17:23:15
+    - "hashtag for panel: #WhoNeedsVC"
+    - <a href="/devices" rel="nofollow">txt</a>
+    - 
+    - 
+    - false
+  - - "204"
+    - "24296208"
+    - "10526726241"
+    - 2010-03-13 17:23:06
+    - "IEEE 802 30th Anniversary on Facebook: http://bit.ly/9Io3T6 - Nobody was thinking Facebook at Jack Tar Hotel in San Francisco in 1980."
+    - <a href="http://bit.ly" rel="nofollow">bit.ly</a>
+    - 
+    - 
+    - false
+  - - "205"
+    - "12279"
+    - "10526768985"
+    - 2010-03-13 17:24:14
+    - Here's an MP3 of the podcast interview I did w/ @tecnocasters. Focuses on "being small" (my part - 12 mins in) http://bit.ly/bHd22M
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "206"
+    - "788994"
+    - "10526913623"
+    - 2010-03-13 17:27:58
+    - Best of Chatroulette http://bit.ly/bBAdWQ (must see!, very funny)
+    - <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "207"
+    - "2529971"
+    - "10526893519"
+    - 2010-03-13 17:27:26
+    - overhaul of hunch site today. the more time we have, the simpler the site gets.. see "related results" too.. http://hunch.com/s/i571974/
+    - web
+    - 
+    - 
+    - false
+  - - "208"
+    - "5768872"
+    - "10526924463"
+    - 2010-03-13 17:28:15
+    - Floor 4 ballroom D talk starts soon come now!!!!! Sxsw talk
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "209"
+    - "20806376"
+    - "10526998915"
+    - 2010-03-13 17:30:08
+    - UN chief says world hasn't forgotten Haiti http://ow.ly/1l6E5
+    - <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a>
+    - 
+    - 
+    - false
+  - - "210"
+    - "1081"
+    - "10526986211"
+    - 2010-03-14 17:29:49
+    - "#WhoNeedsVC panel \"Who F*#king Needs Venture Capital?\": @MitchLasky @DaveMcClure @Troutzke @Defunkt @JolieOdell"
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "211"
+    - "5768872"
+    - "10527038447"
+    - 2010-03-14 17:31:06
+    - THIS FUCKING ROOM IS HUGE! I need everyone to tweet or FB or PLURk or friendster or whatever to get asses in the room THANK U!
+    - web
+    - 
+    - 
+    - false
+  - - "212"
+    - "2281521"
+    - "10527083033"
+    - 2010-03-14 17:32:14
+    - At bank leumi tweet up. Amazing stuff. Shapo @leumidigital
+    - <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+    - 
+    - 
+    - false
+  - - "213"
+    - "12"
+    - "10527081158"
+    - 2010-03-14 17:32:12
+    - Wow, it's a beautiful day in SF. Clear sky.
+    - <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+    - 
+    - 
+    - false
+  - - "214"
+    - "1081"
+    - "10527107030"
+    - 2010-03-14 17:32:50
+    - "#WhoNeedsVC @MitchLasky succesful videogame entrepreneur, 1 big exit now at Benchmark Capital"
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "215"
+    - "586"
+    - "10527092581"
+    - 2010-03-14 17:32:28
+    - "@garyvee Get it done, bro! #sittinginthebackrow"
+    - <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+    - 
+    - 
+    - false
+  - - "216"
+    - "24389878"
+    - "10527168196"
+    - 2010-03-14 17:34:24
+    - "Storyboard your writing. See how with this great review: http://reviews.levenger.com/2450/AD4145/reviews.htm?reviewID=9341604"
+    - web
+    - 
+    - 
+    - false
+  - - "217"
+    - "833071"
+    - "10527167975"
+    - 2010-03-14 17:34:24
+    - thanks to NewTek.com video studio in a box for supporting SiliconAngle's tricast at SXSW - many big names didn't sponsor thx NewTek!!!!
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "218"
+    - "1081"
+    - "10527147753"
+    - 2010-03-14 17:33:52
+    - "#WhoNeedsVC @Defunkt (GitHub) has never taken VC, bootstrapped."
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "219"
+    - "14267591"
+    - "10527133228"
+    - 2010-03-14 17:33:30
+    - "Did I mention #BizSpark is 1st event ever to be live-streamed @ #sxsw? @jasonkintzler pitches @ 5pm CT http://bit.ly/MVnXr"
+    - <a href="http://www.seesmic.com/" rel="nofollow">Seesmic</a>
+    - 
+    - 
+    - false
+  - - "220"
+    - "1081"
+    - "10527131036"
+    - 2010-03-15 17:33:27
+    - "#WhoNeedsVC Mike @troutzke spurned by VC, decided to start his own incubator in midwest"
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "221"
+    - "1064311"
+    - "10527173135"
+    - 2010-03-15 17:34:32
+    - ".@garyvee's keynote. Level 4, Ballroom D #sxsw #refreshgary"
+    - <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+    - 
+    - 
+    - false
+  - - "222"
+    - "3855911"
+    - "10527232008"
+    - 2010-03-15 17:36:00
+    - need to buff out the scratch on my car this weekend  http://tweetphoto.com/14512190
+    - <a href="http://www.tweetphoto.com" rel="nofollow">TweetPhoto for Android</a>
+    - "-117.259"
+    - "33.0006"
+    - true
+  - - "223"
+    - "1081"
+    - "10527228420"
+    - 2010-03-15 17:35:55
+    - "#WhoNeedsVC: \"A startup is a company who doesn't know their customer, or isn't yet profitable, or both\" @davemcclure"
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "224"
+    - "3195401"
+    - "10527256835"
+    - 2010-03-15 17:36:40
+    - I'm at Garage Geeks (Holon). http://4sq.com/brBfYm
+    - <a href="http://foursquare.com" rel="nofollow">foursquare</a>
+    - "34.7985"
+    - "32.0189"
+    - true
+  - - "225"
+    - "1081"
+    - "10527253286"
+    - 2010-03-15 17:36:34
+    - "#WhoNeedsVC (wow, full house... fuck u @garyvee !!! ;)"
+    - <a href="http://www.tweetdeck.com/" rel="nofollow">TweetDeck</a>
+    - 
+    - 
+    - false
+  - - "226"
+    - "1878461"
+    - "10527252649"
+    - 2010-03-15 17:36:33
+    - "New post (#technometria): Come to Kynetx Impact in April  http://bit.ly/bhzJLr"
+    - <a href="http://apiwiki.twitter.com/" rel="nofollow">API</a>
+    - 
+    - 
+    - false
+  - - "227"
+    - "2529971"
+    - "10527320077"
+    - 2010-03-15 17:38:21
+    - sorry I couldn't make it due to james bond villain-esque eye infection RT @dochugo enjoyed being with @lizgannes @davidpmr @DouglasMerrill
+    - web
+    - 
+    - 
+    - false
+  - - "228"
+    - "14278978"
+    - "10527309770"
+    - 2010-03-15 17:38:05
+    - "#thelifegraph panel @sama defines the graph as everywhere you've been in the past. Missing future intent @plancast #sxsw"
+    - <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+    - 
+    - 
+    - false
+
+--- 
